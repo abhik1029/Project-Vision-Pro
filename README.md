@@ -1,21 +1,6 @@
-This project is a clone of the Apple Vision Pro website, created as a part of my project. This project aimed to practice front-end web development skills by replicating the design and functionality of an existing website.
-
-Description:
-The Apple Vision Pro website clone mimics the design and layout of the original Apple Vision Pro website. It includes similar sections such as product features, layout, etc. The clone is built using HTML, CSS and JavaScript to replicate the user interface and interactions.
-
-Key Features:
-Product Overview: Explains what Apple Vision Pro is and how it revolutionizes the way we see and interact with the world.
-3D Capture: Highlights the ability to capture stunning spatial photos and videos in 3D, allowing users to relive memories with immersive Spatial Audio.
-Enhanced Existing Media: Demonstrates how Apple Vision Pro elevates existing photo and video libraries by presenting them in remarkable scale and with captivating panoramas.
-EyeSight Feature: Explains how EyeSight reveals a user's eyes to those nearby, fostering connection and maintaining awareness during app usage or immersive experiences.
-Intuitive Navigation: Showcases how users can navigate the visionOS interface simply by looking at apps, buttons, and text fields for a seamless experience.
-
-Target Audience: 
-Potential Apple Vision Pro customers.
-Existing Apple product users are interested in learning more about spatial computing.
-
-Website Design:
-The website prioritizes a clean, modern aesthetic that reflects the cutting-edge nature of Apple Vision Pro. High-quality visuals and interactive elements are essential to engage visitors and showcase the product's potential.
+This project is a clone of the Apple Vision Pro website. This project aimed to practice front-end web development skills by replicating the design and functionality of an existing website.
 
 
-
+<img width="982" alt="Screenshot 2024-04-25 at 3 28 30 PM" src="https://github.com/abhik1029/Project-Vision-Pro/assets/164001169/69c9610e-60bd-4294-a643-9cf47f1e650e">
+<img width="1412" alt="Screenshot 2024-04-25 at 3 28 42 PM" src="https://github.com/abhik1029/Project-Vision-Pro/assets/164001169/097ca477-a0e5-4b3e-86c3-c22ec17dffe0">
+<img width="1407" alt="Screenshot 2024-04-25 at 3 29 00 PM" src="https://github.com/abhik1029/Project-Vision-Pro/assets/164001169/3d4f4666-d333-4c23-b8ee-e5235d6d0c73">
