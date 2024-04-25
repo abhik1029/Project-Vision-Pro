@@ -1,4 +1,4 @@
-This project is a clone of the Apple Vision Pro website. This project aimed to practice front-end web development skills by replicating the design and functionality of an existing website.
+This project is a clone of the Apple Vision Pro website. It is aimed to practice front-end web development skills by replicating the design and functionality of an existing website.
 
 
 <img width="982" alt="Screenshot 2024-04-25 at 3 28 30 PM" src="https://github.com/abhik1029/Project-Vision-Pro/assets/164001169/69c9610e-60bd-4294-a643-9cf47f1e650e">
